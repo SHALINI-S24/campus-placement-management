@@ -1,7 +1,6 @@
 # Campus Placement \& Recruitment Management System
 
-# 
-#
+
 # Student Application Module
 
 # 
